@@ -1,0 +1,22 @@
+.input-container-typeahead {
+  position: relative;
+
+  input {
+    width: 100%;
+    padding-right: 50px;
+  }
+
+  .loading-container-typeahead {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(-100%, -50%);
+  }
+
+  .spinner-typeahead {
+    width: 20px;
+    height: 20px;
+
+    position: relative;
+  }
+}
