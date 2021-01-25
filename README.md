@@ -1,27 +1,47 @@
-# JvWeather
+# Jv Weather
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/vitorsemidio-dev/dio-weather-ngrx?color=%2304D361&style=flat">
 
-## Development server
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/vitorsemidio-dev/dio-weather-ngrx?style=flat">
+  
+  <a href="https://github.com/vitorsemidio-dev/dio-weather-ngrx/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/vitorsemidio-dev/dio-weather-ngrx?style=flat">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Projeto desenvolvido durante um dos cursos da [Digital Innovation One](https://digitalinnovation.one/). Este projeto permite previsão do tempo de diversas cidades, com a possibilidade de adicionar/remover cidades aos favoritos, ver o clima da semana.
 
-## Code scaffolding
+Repositório original: [João Ghignatti](https://github.com/JGhignatti/jv-weather)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 📸 Imagem do projeto
 
-## Build
+![Home Page](.github/home.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## 🔥 Como rodar o projeto?
 
-## Running unit tests
+Clone o repositório
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+```
+$ git clone https://github.com/vitorsemidio-dev/dio-weather-ngrx
+```
 
-## Running end-to-end tests
+Instale as dependências
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+```
+$ npm install
+```
 
-## Further help
+Inicie o projeto Angular
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+```
+$ npm run start
+```
+
+## 🚀 Tecnologias usadas
+
+- [Angular](https://angular.io/)
+- [Open Weather](https://openweathermap.org/)
+- [NgRx](https://ngrx.io/)
