@@ -16,6 +16,8 @@ Projeto desenvolvido durante um dos cursos da [Digital Innovation One](https://d
 
 Repositório original: [João Ghignatti](https://github.com/JGhignatti/jv-weather)
 
+Acesse o projeto em [aqui](https://vse-weather-ngrx.vercel.app/)
+
 ## 📸 Imagem do projeto
 
 ![Home Page](.github/home.png)
